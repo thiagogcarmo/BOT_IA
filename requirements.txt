@@ -1,2 +1,4 @@
+langchain
+langchain-groq
 python-telegram-bot==22.0
 plotly==6.0.1
