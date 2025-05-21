@@ -51,5 +51,5 @@ def main():
 if __name__ == '__main__':
     # Set your token as an environment variable before running the script
     # Example for testing:
-    # os.environ['TELEGRAM_BOT_TOKEN'] = '7449014851:AAGOgjDhSRISbKwyT54EherGK8DXsmMntoQ'
+    # os.environ['TELEGRAM_BOT_TOKEN'] = 'gahqjjq'
     main()
